@@ -1,0 +1,32 @@
+button{
+    width: 57px;
+    height: 52px;
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 7px;
+    
+}
+.calcscreen{
+
+    padding-top: 30px;
+}
+.caculator{
+    border: 1px solid black;
+    width: 330px;
+    height: 420px;
+    background-color: darkslategrey;
+    margin-top: 30px;
+    box-shadow: 15px 20px 15px 0px black;
+    border-radius: 15px;
+}
+.calcbody{
+    height: 100%;
+   
+    
+}
+body{
+    background-color: cadetblue; 
+}
+.calcbuttons button:hover{
+    color: aqua;
+}
